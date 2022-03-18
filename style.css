@@ -23,9 +23,13 @@ body {
     border-radius: 12px;
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.392) 0px 0px 10px 0px;
+    background-repeat: no-repeat;
 }
+/* .apresenta .construindo img {
+    width: 400px;
+} */
 
-@media (min-width: 360px) {
+@media (max-width: 360px) {
     body {
         width: 95%;
         margin: 10px;
