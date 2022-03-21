@@ -20,6 +20,13 @@ body {
   background: #f9f6f3;
   position: relative;
 }
+.iconWhats {
+  position: fixed;
+  bottom: 50px;
+  right: 15%;
+  z-index: 1
+
+}
 @media screen and (max-width: 768px) {
   body {
     overflow-x: hidden;
