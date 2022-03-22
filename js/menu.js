@@ -27,9 +27,4 @@ document.getElementById('menuP').innerHTML = `<li><a href="/">INICIO</a></li>
         </div>
     </div>
 </li> -->
-<li class="cta"><a href="contato.html">Contato</a></li>
-<div class="iconWhats">
-					<div>
-						<a href="https://api.whatsapp.com/send?l=pt-BR&phone=553898839141&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20*AS%20Construtora*%2C%20poderia%20me%20ajudar%3F" target="_blank"><img src="/images/whatsapp-icon-atendimento-sala-mineira-lagoa-dos-patos-min.png" alt=""></a>
-					</div>
-				</div>`
+<li class="cta"><a href="contato.html">Contato</a></li>`
